@@ -29,7 +29,7 @@ A script to identify and kill stale processes that are consuming system resource
 ### User Account Creation
 A script to automate the creation of new user accounts with predefined settings and permissions.
 
-### Updating Clients' Login Credentials
+### Updating Client's Login Credentials
 A script to update and manage clients' login credentials securely.
 
 ## Tools and Technologies
